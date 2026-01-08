@@ -35,6 +35,3 @@ The main objective is to demonstrate data cleaning, statistical exploration, and
 - House prices show a right-skewed distribution
 - Several housing-related variables are highly correlated with each other
 
----
-
-## Project Structure
